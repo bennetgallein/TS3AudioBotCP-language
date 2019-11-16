@@ -1,0 +1,27 @@
+{
+	"ticket_admin": {
+		"mod_ticket_txt": "Aperçu du ticket",
+		"mod_ticket_desc": "Ce sont tous les ticket",
+		"mod_ticket_tbl_title": "titre",
+		"mod_ticket_tbl_user": "utilisateur",
+		"mod_ticket_tbl_date": "date",
+		"mod_ticket_btn_closed": "Fermer le ticket",
+		"mod_ticket_btn_open": "Ouvrir le ticket",
+		"mod_ticket_new_txt": "Nouveau ticket",
+		"mod_ticket_new_desc": "Créer un nouveau ticket",
+		"mod_ticket_new_title": "Titre",
+		"mod_ticket_new_title_placeholder": "Entré un titre",
+		"mod_ticket_new_message": "Message",
+		"mod_ticket_new_message_placeholder": "Entrez un message ici",
+		"mod_ticket_new_create": "Créer",
+		"mod_ticket_new_close": "Fermer"
+	},
+	"ticket": {
+		"mod_ticket_close": "Fermer",
+		"mod_ticket_message": "Entrez le message:",
+		"mod_ticket_send": "Envoyer",
+		"mod_ticket_reopen": "Rouvrir",
+		"mod_ticket_b_noticket": "Aucun ticket correspondant trouvé",
+		"mod_ticket_b_fill": "Veuillez remplir tous les champs !"
+	}
+}

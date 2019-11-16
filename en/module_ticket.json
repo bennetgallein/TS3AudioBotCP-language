@@ -1,0 +1,27 @@
+{
+	"ticket_admin": {
+		"mod_ticket_txt": "Ticket overview",
+		"mod_ticket_desc": "These are all tickets",
+		"mod_ticket_tbl_title": "title",
+		"mod_ticket_tbl_user": "user",
+		"mod_ticket_tbl_date": "date",
+		"mod_ticket_btn_closed": "closed tickets",
+		"mod_ticket_btn_open": "open tickets",
+		"mod_ticket_new_txt": "new ticket",
+		"mod_ticket_new_desc": "Create a new ticket",
+		"mod_ticket_new_title": "Title",
+		"mod_ticket_new_title_placeholder": "Enter a title",
+		"mod_ticket_new_message": "Message",
+		"mod_ticket_new_message_placeholder": "Enter a message here",
+		"mod_ticket_new_create": "Create",
+		"mod_ticket_new_close": "Close"
+	},
+	"ticket": {
+		"mod_ticket_close": "Close",
+		"mod_ticket_message": "Enter message:",
+		"mod_ticket_send": "send",
+		"mod_ticket_reopen": "re-open",
+		"mod_ticket_b_noticket": "No matching ticket found",
+		"mod_ticket_b_fill": "Please fill all fields!"
+	}
+}
