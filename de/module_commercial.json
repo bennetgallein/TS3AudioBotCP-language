@@ -1,0 +1,19 @@
+{
+    "com_base": {
+        "m_sidebar": "Guthaben",
+        "m_page": "Guthaben"
+    },
+    "balance": {
+        "m_balance_current": "Guthaben",
+        "m_balance_text": "Bitte gib hier die Menge ein, welche du auf dein Konto aufladen moechtest",
+        "m_balance_invoice_history": "Rechnungen",
+        "m_balance_invoice_history_text": "Die sind all deine Rechnungen",
+        "m_balance_invoice_paymentid": "Rechnungs-Nr.",
+        "m_balance_invoice_amount": "Menge",
+        "m_balance_invoice_date": "Datum",
+        "m_balance_noinvoices": "Keine Rechnungen"
+    },
+    "balance_bot_new": {
+        "m_invalid_balance": "Dein Guthaben reicht nicht aus um einen Bot zu kaufen!"
+    }
+}

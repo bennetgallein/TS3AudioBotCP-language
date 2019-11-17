@@ -156,17 +156,6 @@
         "m_b_nouser": "User not found",
         "m_b_oldwrong": "Old password is wrong",
         "m_b_changed": "Password changed! Consider relogging"
-
-    },
-    "balance": {
-        "m_balance_current": "Guthaben",
-        "m_balance_text": "Gib die Menge ein, welche du auf dein Konto aufladen möchtest",
-        "m_balance_invoice_history": "Rechnungen",
-        "m_balance_invoice_history_text": "Dies sind all deine Rechnungen",
-        "m_balance_invoice_paymentid": "Zahlungs-ID",
-        "m_balance_invoice_amount": "Menge",
-        "m_balance_invoice_date": "Datum",
-        "m_balance_noinvoices": "Keine Rechnungen"
     },
     "misc": {
         "m_sidebar_settings": "Settings",
