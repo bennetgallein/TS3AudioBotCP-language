@@ -1,0 +1,19 @@
+{
+    "com_base": {
+        "m_sidebar": "Balance",
+        "m_page": "Balance"
+    },
+    "balance": {
+        "m_balance_current": "Balance",
+        "m_balance_text": "Please enter the amount you want to add to your account",
+        "m_balance_invoice_history": "Invoices",
+        "m_balance_invoice_history_text": "These are all your invoices",
+        "m_balance_invoice_paymentid": "Invoice-ID",
+        "m_balance_invoice_amount": "Amount",
+        "m_balance_invoice_date": "Date",
+        "m_balance_noinvoices": "No Invoices yet"
+    },
+    "balance_bot_new": {
+        "m_invalid_balance": "You do not have enough funds to purchase a bot!"
+    }
+}
